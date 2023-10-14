@@ -1,0 +1,8 @@
+
+.destaque {
+  background-color: rgb(255, 255, 255);
+}
+
+.destaque.ativo {
+  background-color: yellow;
+}
